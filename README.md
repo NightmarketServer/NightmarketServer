@@ -1,5 +1,5 @@
 # 💫 About Me:
- Hey, I'm Bongsusu<br>🎯 Vai trò chính:<br>- Quản lý cộng đồng Nightmarket (Discord)<br>- Chia sẻ mẹo tech, trick app (đặc biệt là Shadowrocket)<br>📫 Kết nối với mình:<br>- Discord: https://discord.gg/juY9tw5AJY<br>- GitHub: https://github.com/NightmarketServer
+🎯 Vai trò chính:<br>- Quản lý cộng đồng Nightmarket (Discord)<br>- Chia sẻ mẹo tech, trick app (đặc biệt là Shadowrocket)<br>📫 Kết nối với mình:<br>- Discord: https://discord.gg/juY9tw5AJY<br>- GitHub: https://github.com/NightmarketServer
 
 
 ## 🌐 Socials:
