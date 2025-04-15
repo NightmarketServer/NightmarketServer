@@ -14,7 +14,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NightmarketServer&show_icons=true&theme=transparent)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&height=60&size=20&duration=3500&color=2982FF&center=false%C2%A0%E9%94%99%E8%AF%AF%E7%9A%84&vCenter=false%C2%A0%E9%94%99%E8%AF%AF%E7%9A%84&multiline=true&repeat=true%C2%A0%E7%9C%9F%E7%9A%84&random=true%C2%A0%E7%9C%9F%E7%9A%84&width=470&lines=This+is+the+GitHub+page+of+an+architect+;who+loves+to+date+his+computer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6102F7&width=435&lines=%C4%90%C3%8AM+XU%E1%BB%90NG+-+CH%E1%BB%A2+L%C3%8AN+;NIGHMARKET+SERVER)](https://git.io/typing-svg)
 
 
 <!--
