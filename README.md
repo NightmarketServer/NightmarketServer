@@ -3,6 +3,7 @@
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/juY9tw5AJY) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@N1ghtmarket) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nightmarketshop.bongsusu@gmail.com) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6102F7&width=435&lines=%C4%90%C3%8AM+XU%E1%BB%90NG+-+CH%E1%BB%A2+L%C3%8AN+;NIGHMARKET+SERVER)](https://git.io/typing-svg)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Nightmarketserver&theme=slateorange&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -10,9 +11,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Nightmarketserver&icon=10&color=13)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NightmarketServer&show_icons=true&theme=transparent)
-
 
 <!--
