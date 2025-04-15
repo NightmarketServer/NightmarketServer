@@ -1,4 +1,4 @@
-# 💫 About Me:
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=TIME&weight=800&size=40&duration=4999&pause=1000&color=6102F7&center=true&vCenter=true&width=435&lines=%F0%9F%92%AB+About+Me+%F0%9F%92%AB)](https://git.io/typing-svg):
 🎯 Vai trò chính:<br>- Quản lý cộng đồng Nightmarket (Discord)<br>- Chia sẻ mẹo tech, trick app (đặc biệt là Shadowrocket)<br>
 
 ## 🌐 Socials:
