@@ -6,6 +6,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=TIME&weight=800&size=40&duration=4999&pause=1000&color=6102F7&center=true&vCenter=true&width=435&lines=%C4%90%C3%8AM+XU%E1%BB%90NG+-+CH%E1%BB%A2+L%C3%8AN+;NIGHMARKET+SERVER)](https://git.io/typing-svg)
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0FFF00&center=true&vCenter=true&width=435&lines=Hello+World!;Welcome+to+my+profile;Enjoy+your+visit!" alt="Typing SVG" />
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
+</p>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Nightmarketserver&theme=slateorange&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Nightmarketserver&theme=slateorange&hide_border=false)<br/>
